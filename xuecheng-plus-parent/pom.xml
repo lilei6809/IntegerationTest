@@ -144,6 +144,8 @@
                 <artifactId>xxl-job-core</artifactId>
                 <version>${xxl-job-core.version}</version>
             </dependency>
+
+
             <!--Spring boot单元测试-->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
